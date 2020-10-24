@@ -1,3 +1,5 @@
+# Importing Libraries
+# Please use tensorflow-gpu for un-interrupted working.
 import dlib
 import numpy as np
 import cv2
